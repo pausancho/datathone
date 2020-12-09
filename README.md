@@ -1,10 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Ironhack Datathone Fall 2020
-* Carla Feriche *	
-* Pau Sancho * 	
-* Pol Serramalera Guerin *	
-* Àlex Gómez Segura *	
+* Carla Feriche 
+* Pau Sancho 	
+* Pol Serramalera Guerin	
+* Àlex Gómez Segura 
 
 ## Content
 - [Project Description](#project-description)
