@@ -1,10 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Ironhack Datathone Fall 2020
-*Carla Feriche*	
-*Pau Sancho* 	
-*Pol Serramalera Guerin*	
-*Àlex Gómez Segura*	
+* Carla Feriche *	
+* Pau Sancho * 	
+* Pol Serramalera Guerin *	
+* Àlex Gómez Segura *	
 
 ## Content
 - [Project Description](#project-description)
@@ -26,28 +26,23 @@ The questions that we want to answer with this project are:
 - Should we reduce the number of cookies we sell and focus on those that have the best quality? 
 
 ## Dataset
-For this project I used the 2019 statcast dataset whith records of all the pitches thrown during that season, which includes, the release spin rate, release velocity and outcomes. 
+For this project we used a dataset with 16 columns with cookies measurements and the quality, with over 5000 rows of different types of cookies. 
 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
 
-1-Define project topic
-2-Find data set
+1-Define work
+2-Review data set
 3-Cleaned the data
 4-Analyse data
-5-Write project article
+5-ML Modeling
 6-Prepare Presentation
 
 
 ## Organization
-To organize the work I created a Trello project where I listed all the items that I had to complete to deliver the project. 
+To organize the work we created a Trello project where we listed all the items that we had to complete to deliver the project. 
 
-This repository contains a readme document with some basic information about the project, a .gitignore document and a folder with two jupyter noteboks, one for the data cleaning and the other one for the data analysis. 
+This repository contains a readme document with some basic information about the project, a .gitignore document and a folder with a jupyter noteboks with the code used for the ML project and the dataset.  
 
-## Links
-[Repository](https://github.com/pausancho/Project-Week-5-Your-Own-Project)  
-[Article](https://pausanchogonzalez.medium.com/the-ever-expanding-strikeouts-game-8a1d50ce0b95)
-
-[Slides](https://docs.google.com/presentation/d/1FtpNh2uj3P3u77omgbLKLf7sCmuHMMyULdFsYkcoimw/edit?usp=sharing)  
-[Trello](https://trello.com/b/cmocSGs7/project-4)
+## Links 
+[Trello](https://trello.com/b/ZMuVVHuV/ml-competition)
